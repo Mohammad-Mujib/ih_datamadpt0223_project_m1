@@ -5,7 +5,7 @@
 
 This project enables the users to get the nearest BiciMAD station from the different Temples of Madrid.
 
-<p align="left"><img src="<p align="left"><img src="https://pbs.twimg.com/media/EQimOZYXkAMCZfv?format=jpg&name=small%22%3E</p>
+<p align="left"><img src="https://pbs.twimg.com/media/EQimOZYXkAMCZfv?format=jpg&name=small%22%3E</p>
 
 
 
@@ -35,6 +35,7 @@ This project enables the users to get the nearest BiciMAD station from the diffe
 
 
 ## **Output** 
+Select the desired place and get the closest station.
 
 
 
