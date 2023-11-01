@@ -23,7 +23,7 @@ This data app enables the users to get the nearest BiciMAD station from the diff
 - Geopandas
 - Duckdb
 - SQL
-- Requests etc.
+- Requests etc...
 
 ## Data Sources
 

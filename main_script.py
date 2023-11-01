@@ -35,6 +35,8 @@ final_df = combined_df.loc[combined_df.groupby("Place of interest")["distance"].
 final_df1 = final_df.drop(['Latitude_x','Longitude_x','Coordinates','Latitude_y','Longitude_y'], axis=1)
 
 
+-- create a function
+
 def argument_parser():
     parser = argparse.ArgumentParser(description= 'Application for nearest bicimad station' )
     parser.add_argument('--location', type=str, required=True, help='Location for finding the nearest BiciMAD station')
@@ -47,6 +49,10 @@ if argument_parser == 'all':
 else:
     final_df1 = final_df1[['lugar']== argument_parser]
     final_df1.to_csv('./data/pipeline_df.csv', index=False)
+    
+    
+    
+
 
 
 
