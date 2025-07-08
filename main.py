@@ -7,7 +7,7 @@
 ##############################################################################
 
 
-# import libraries...
+# import libraries
 
 import argparse
 
